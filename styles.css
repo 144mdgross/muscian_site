@@ -1,0 +1,23 @@
+.imageBackground {
+    background-image: url('assets/penup_20230324_071712.jpg');
+    height: 70vh;
+    background-repeat: repeat-x;
+    background-position: center;
+    background-size: contain;
+    border-radius: 50%;
+}
+
+body {
+    background-color: rgb(48,48,48);
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(48,48,48)
+
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(156,156,156);
+}
